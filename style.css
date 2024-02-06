@@ -80,7 +80,6 @@ body{
   .move1{
     position:absolute;
     top: 30px;
-    right: 12px;
     left:15px;
   }
 
@@ -88,21 +87,19 @@ body{
   .move2{
     position:absolute;
     bottom:75px;
-    right: 12px;
     left:45px;
   }
 
   .move3{
     position:absolute;
     bottom:65px;
-    right: 18px;
     left:53px;
   }
 
   .move4{
     position:absolute;
     top: 80px;
-    left:400px;
+    left:350px;
   }
 
   .move5{
